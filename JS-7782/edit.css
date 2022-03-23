@@ -1,0 +1,63 @@
+body{
+    font-family: Source Code Pro, sans-serif;
+    box-sizing: border-box;
+    background: #ff8000;
+    color: #ffffff;
+    font-size: 16px;
+    
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.link:hover{
+    cursor: pointer;
+    color: #00000080;
+}
+
+.link:visited{
+    cursor: pointer;
+    color: #00000050;
+}
+
+.table{
+    color: #000000;
+    margin-right: 80px;
+    margin-left: 80px;
+}
+.button{
+    /* border: 4px; */
+    border-color: #000000;
+}
+
+.img{
+    border:  5px solid #000000;
+    
+}
+.Vermelho{
+    background-color: #ff3300;
+    transition: all 0 ease-in-out;
+}
+.Laranja{
+    background-color: #ff6600;
+    transition: all 0 ease-in-out;
+}
+.Amarelo{
+    background-color: #ffff00;
+    transition: all 0 ease-in-out;
+}
+.Verde{
+    background-color: #33cc33;
+    transition: all 0 ease-in-out;
+}
+.Azul{
+    background-color: #0066ff;
+    transition: all 0 ease-in-out;
+}
+.Anil{
+    background-color: #233f61;
+    transition: all 0 ease-in-out;
+}
+div.container{
+    position: relative;
+    min-width: 90vw;
+    text-align: center;
+}

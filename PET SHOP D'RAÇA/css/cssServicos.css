@@ -1,0 +1,183 @@
+body{
+   position: static;
+}
+
+*{
+    margin: 0px;
+}
+.navbar{
+    padding: 15px;
+    text-align:center;
+    margin-top:0px;
+    background-color: #996633;
+    margin-left:0px;
+    margin-bottom: 0px;
+    height:100px;
+    border: 0;
+}
+
+.banner{
+    position: relative;
+    width: 750px;
+    margin-top: -900px;
+    margin-left: 320px;
+    border: 5px solid #422A14;
+}
+
+.navbardois{
+    padding: 15px;
+    text-align:center;
+    margin-top:50px;
+    background-color: #996633;
+    margin-left:0px;
+    margin-bottom: 0px;
+    height:200px;
+    border: 0;
+}
+
+.logo{
+    position: relative;
+    width: 200px;
+    float: left;
+    margin-top: -45px;
+    margin-left: -20px;
+}
+
+.logodois{
+    position: relative;
+    width: 230px;
+    margin-top: 0px;
+    margin-left: -50px;
+
+}
+
+.logotres{
+    position: relative;
+    width: 230px;
+    margin-top: 0px;
+    margin-left: 150px;
+
+}
+
+.logoquatro{
+    position: relative;
+    width: 230px;
+    margin-top: 0px;
+    margin-left: 150px;
+
+}
+
+.slogan{
+    font-family: Impact,'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    margin: auto;
+    color: aliceblue;
+}
+
+.raça{
+    font-family: Impact,'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+}
+
+.petshop{
+    font-family: Impact,'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+}
+
+.bg{
+    background-repeat: repeat-x;
+    background-repeat: repeat-y;
+}
+.main-form{
+  padding-left: 300px
+}
+
+.main-form .form-group{
+    background-color: #7E481C;
+    color: #0A0A0A;
+    width: 180px;
+    padding: 10px;
+    position: relative;
+    top: -10px;
+    margin-bottom: 0px;
+    border: 3px solid #422A14;
+}
+
+.main-form .form-group label{
+    font-family: "Tahoma", sans-serif;
+    display: block;
+    font-size: 15px;
+
+}
+
+.main-form .formo-group label{
+    font-family: "Tahoma", sans-serif;
+    display: block;
+    font-size: 15px;
+
+}
+
+.main-form .form-group input{
+    padding: 7px;
+    background-color: #A87937;
+}
+
+.main-form .formo-group input{
+    padding: 7px;
+    background-color: #A87937;
+}
+
+.bortao{
+    position: relative;
+    top: -520px;
+    left: 600px;
+    padding: 12px;
+    background-color: #7E481C;
+    color: #0A0A0A;
+    border: none;
+    border-radius: 12px;
+    border: 3px solid #422A14;
+    transition-duration: 0.4s;
+}
+
+.bortao:hover {
+  background-color: #80604D; 
+  color: white;
+}
+
+.tit-um{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 30px;
+    left: 0px;
+    margin-bottom: 15px;
+    margin-left: 270px;
+    padding: 15px;
+}
+
+.main-form .formo-group{
+background-color: #7E481C;
+color: #0A0A0A;
+width: 180px;
+padding: 10px;
+position: relative;
+top: -590px;
+left: 590px;
+margin-bottom: 0px;
+border: 3px solid #422A14;
+}
+
+.tit-dois{
+   font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -40px;
+    left: 50px;
+    margin-bottom: 15px;
+    margin-left: 270px;
+    padding: 15px; 
+}
+
+.corzinha{
+    background-color: #A87937;
+
+}

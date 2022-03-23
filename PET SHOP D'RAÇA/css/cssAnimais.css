@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+}
+.navbar{
+    padding: 15px;
+    text-align:center;
+    margin-top:0px;
+    background-color: #996633;
+    margin-left:0px;
+    margin-bottom: 0px;
+    height:100px;
+    border: 0;
+}
+
+.logo{
+    position: relative;
+    width: 200px;
+    float: left;
+    margin-top: -45px;
+    margin-left: -20px;
+}
+
+.slogan{
+    font-family: Impact,'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    margin: auto;
+    color: aliceblue;
+}
+
+.raça{
+    font-family: Impact,'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+}
+
+.petshop{
+    font-family: Impact,'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+}
+
+.bg{
+    background-repeat: repeat-x;
+    background-repeat: repeat-y;
+}
+p{}
+.h2-CURIOSIDADES{}
+.fundo0{
+    font-family: 'Otomanopee One', sans-serif;
+    background: rgba(240, 248, 255, 0.534);
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
